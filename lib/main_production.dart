@@ -10,9 +10,9 @@ Future<void> main() async {
   };
   F.imageLocation = "assets/images/default_image.jpg";
   F.theme = ThemeData.dark().copyWith(
-    primaryColor: const Color(0xFF123456),
+    primaryColor: const Color(0xFF856134),
     appBarTheme: ThemeData.light().appBarTheme.copyWith(
-          backgroundColor: const Color(0xFF654321),
+          backgroundColor: const Color(0xFF963145),
         ),
   );
   F.appFlavor = Flavor.production;
